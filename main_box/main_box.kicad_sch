@@ -1,0 +1,53 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid e63e39d7-6ac0-4ffd-8aa3-1841a4541b55)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 148.59 55.245) (size 45.72 62.865) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 63d2de20-f243-448e-8f9b-9238fd5af361)
+    (property "Sheet name" "Distribution" (id 0) (at 148.59 54.5334 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Distribution.kicad_sch" (id 1) (at 148.59 118.6946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 73.66 22.225) (size 38.1 53.975) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7bafe9bc-eba9-4810-a855-8b4f34bb53ef)
+    (property "Sheet name" "Switchgear" (id 0) (at 73.66 21.5134 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Switchgear.kicad_sch" (id 1) (at 73.66 76.7846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 21.59 20.955) (size 38.1 55.245) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 997c2f12-73ba-4c01-9ee0-42e37cbab790)
+    (property "Sheet name" "Power_input" (id 0) (at 21.59 20.2434 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Power_input.kicad_sch" (id 1) (at 21.59 76.7846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/997c2f12-73ba-4c01-9ee0-42e37cbab790" (page "2"))
+    (path "/7bafe9bc-eba9-4810-a855-8b4f34bb53ef" (page "3"))
+    (path "/63d2de20-f243-448e-8f9b-9238fd5af361" (page "4"))
+  )
+)
