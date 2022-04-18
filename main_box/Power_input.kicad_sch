@@ -931,8 +931,8 @@
     )
     (pin "1" (uuid 7dcddee7-cb64-4a9d-bde8-637d2ee9257b))
     (pin "2" (uuid 86819d76-65c8-4796-96b4-d5a97cd6067b))
-    (pin "N" (uuid 993ff105-4d18-4c9e-91c5-e8c562468589))
-    (pin "N" (uuid 993ff105-4d18-4c9e-91c5-e8c562468589))
+    (pin "N" (uuid 993ff105-4d18-4c9e-91c5-e8c56246858a))
+    (pin "N" (uuid 993ff105-4d18-4c9e-91c5-e8c56246858a))
   )
 
   (symbol (lib_id "power:+48V") (at 69.85 90.17 0) (unit 1)

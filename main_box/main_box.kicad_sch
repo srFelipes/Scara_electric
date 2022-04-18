@@ -131,6 +131,9 @@
     (path "/7bafe9bc-eba9-4810-a855-8b4f34bb53ef/f0158284-f11f-4236-9b56-2a100def7c5c"
       (reference "LA?") (unit 1) (value "~") (footprint "")
     )
+    (path "/eb51af8c-f931-4087-841b-b930618e5f3f/2e82f29d-28f0-45e1-9d34-7844354e92fe"
+      (reference "ODRV?") (unit 1) (value "simplified_odrive") (footprint "")
+    )
     (path "/997c2f12-73ba-4c01-9ee0-42e37cbab790/a852d65e-5762-4110-8194-84b1a09544cf"
       (reference "PS?") (unit 1) (value "~") (footprint "")
     )
