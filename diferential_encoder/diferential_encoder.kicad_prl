@@ -64,11 +64,11 @@
       39,
       40
     ],
-    "visible_layers": "ffddfff_ffffffff",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "differential_encoder.kicad_prl",
+    "filename": "diferential_encoder.kicad_prl",
     "version": 3
   },
   "project": {
